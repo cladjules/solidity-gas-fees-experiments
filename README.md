@@ -18,3 +18,4 @@ and also how important it is to use `packed` structs.
 that is due to storage variables being cheaper to be accessed once _warm_.
 
 Here are the results with gas fees:
+<img width="1017" alt="image" src="https://user-images.githubusercontent.com/7745576/226570821-73cf475e-fa8b-4f57-95da-68b8e9590a27.png">
